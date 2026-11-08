@@ -22,6 +22,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\PolicyService\PolicyService.csproj" />
+    <ProjectReference Include="..\PolicyService.Api\PolicyService.Api.csproj" />
   </ItemGroup>
 
 </Project>
